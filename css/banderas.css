@@ -1,0 +1,115 @@
+body {
+	background-color: black;
+	font-family: 'Fredoka One', cursive;font-family: 'Fredoka One', cursive;
+	margin:5px;
+	padding-top: 3%;
+}
+
+a {color: white;} 
+a:hover {color: red;}
+
+.título {
+	color: white;
+	left: 37%;
+	position: relative;
+}
+
+#Japón {
+	background-color: white;
+}
+
+.fondo1 {
+	width: 300px;
+	height: 200px;
+	margin: 50px;
+	display: inline-block;
+	float: left;
+	border-style: solid;
+	border-color: ghostwhite;
+	border-width: 0.3px;
+}
+
+.nombre1 {
+	top: 400px;
+	left: 175px;
+	position: absolute;
+}
+
+.símbolo {
+	height: 100px;
+	width: 100px;
+	left: 95px;
+	top: 55px;
+	border-radius: 50%;
+	background: #BE0028;
+	position: relative;
+}
+
+
+#Suecia {
+	background-color: #006AA7;
+}
+.fondo2 {
+	width: 350px;
+	height: 200px;
+	margin: 50px;
+	display: inline-block;
+	float: left;
+	border-style: solid;
+	border-color: ghostwhite;
+	border-width: 0.3px;
+}
+.franjav {
+	height: 200px;
+	width: 50px;
+	background: #FECC00;
+	margin-left: 100px;
+}
+
+.franjah {
+	height: 50px;
+	width: 350px;
+	background: #FECC00;
+	margin-top: -125px;
+}
+.nombre2 {
+	top: 400px;
+	left: 600px;
+	position: absolute;
+}
+
+#Madagascar {
+	background-color: white;
+}
+
+.fondo3 {
+	width: 300px;
+	height: 200px;
+	margin: 50px;
+	display: inline-block;
+	float: left;
+	border-style: solid;
+	border-color: ghostwhite;
+	border-width: 0.3px;
+}
+.franja1 {
+	height: 100px;
+	width: 200px;
+	background: #FC3D32;
+	left: 100px;
+	position: relative;
+}
+
+.franja2 {
+	height: 100px;
+	width: 200px;
+	background: #007E3A;
+	left: 100px;
+	position: relative;	
+}
+
+.nombre3 {
+	top: 400px;
+	left: 1010px;
+	position: absolute;
+}
